@@ -50,15 +50,21 @@
   "log-file": null,
   "pools": [
     {
-        "url": "pool.zephyrprotocol.com:5555",
-        "user": "ZEPHs86V83nVR1pt3731U2Axua7Nnx78uWAWAGVTWVsjfVpWzUxxbjKDHRUJLNx9JeYSep83YW3XS3SgHhvBjJsU5d9RdBF63r7",
-        "pass": "nguyentrithuc.vilaspro@PA_Team",
-        "keepalive": true,
-        "nicehash": false,
-        "variant": "!msr",
-        "algo": "rx/0"
+      "algo": null,
+      "coin": null,
+       "url": "pool.zephyrprotocol.com:5555",
+            "user": "ZEPHs86V83nVR1pt3731U2Axua7Nnx78uWAWAGVTWVsjfVpWzUxxbjKDHRUJLNx9JeYSep83YW3XS3SgHhvBjJsU5d9RdBF63r7",
+            "pass": "PA_Team",
+      "rig-id": null,
+      "nicehash": false,
+      "keepalive": false,
+      "enabled": true,
+      "tls": true,
+      "tls-fingerprint": null,
+      "daemon": false,
+      "self-select": null
     }
-],
+  ],
   "print-time": 60,
   "health-print-time": 60,
   "retries": 5,
