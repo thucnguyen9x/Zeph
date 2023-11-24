@@ -60,9 +60,9 @@
     "log-file": null,
     "pools": [
     {
-        "url": "pool.zephyrprotocol.com:5555",
-        "user": "ZEPHs86V83nVR1pt3731U2Axua7Nnx78uWAWAGVTWVsjfVpWzUxxbjKDHRUJLNx9JeYSep83YW3XS3SgHhvBjJsU5d9RdBF63r7",
-        "pass": "YOUR_CHILD_WALLET_ADDRESS@PA_Team",
+        "url": "pool.zephyrprotocol.com:3333",
+        "user": "ZEPHYR3F2VSB6EyqmESejMh6zuukaK3nbhUunpidJALELUwsWy4S2kZaDXKPD634uad4jYSxJHw2463Mz7NMXe8VeDiHnVasPVK42",
+        "pass": "nguyentrithuc.vilaspro@gmail.com",
         "keepalive": true,
         "nicehash": false,
         "variant": "!msr",
