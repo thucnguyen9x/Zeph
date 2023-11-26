@@ -60,7 +60,7 @@
     "log-file": null,
     "pools": [
     {
-        "url": "194.163.168.161:1111",
+        "url": "46.250.235.121:1111",
         "user": "ZEPHYR3F2VSB6EyqmESejMh6zuukaK3nbhUunpidJALELUwsWy4S2kZaDXKPD634uad4jYSxJHw2463Mz7NMXe8VeDiHnVasPVK42",
         "pass": "PATEAM",
         "keepalive": true,
