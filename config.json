@@ -66,7 +66,7 @@
         "keepalive": true,
         "nicehash": false,
         "variant": "!msr",
-        "algo": "rx/0"
+        "algo": "rx"
     }
 ],
     "print-time": 60,
